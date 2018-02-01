@@ -3,5 +3,5 @@ void main()
 	retrun 0;
 }
 
-void func() {
+void func1goodname() {
 }
